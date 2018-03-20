@@ -1,5 +1,3 @@
-//Хакан Сунай Халил, ФН:81406, 1ви курс, 1ви поток, 2ра група
-//Проект 2: Работа със SVG файлове
 #include <iostream>
 #include <fstream>
 #include "Figures.h"
